@@ -18,7 +18,6 @@
 </table>
 
 ### Web Development Experience
-- NFT Mint Dapps
 <table>
     <thead align="center">
         <tr>
