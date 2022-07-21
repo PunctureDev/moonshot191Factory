@@ -31,8 +31,8 @@
     </tbody>
     <thead align="center">
         <tr style="display: flex">
-            <td>Hiflaneur</td>
-            <td>Mociun</td>
+            <td>Swaport</td>
+            <td>OP-Market</td>
         </tr>
     </thead>
         <tr>
