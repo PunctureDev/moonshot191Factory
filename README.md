@@ -1,5 +1,6 @@
 
 ### **_Skills_**
+React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Blockchain Development, Bootstrap, Material UI, etc
 
 - Web Development
 <table>
