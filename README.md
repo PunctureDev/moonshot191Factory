@@ -13,17 +13,17 @@
     <tbody>
         <tr>
         <td>
-            <a href="https://www.f6s.com/casalova">
+            <a href="/">
                 <img src="https://media-exp1.licdn.com/dms/image/C4E2DAQGYQJu4ehsEeg/profile-treasury-image-shrink_800_800/0/1650784882719?e=1658977200&v=beta&t=zhLUf17cY6NGn4Sw_tcaRHkajsHtORmqmeVwZkRvgI4" width="300">
             </a>
         </td>
         <td>
-            <a href="https://www.fishtripr.com/">
+            <a href="/">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQHjd2VMWeHVAA/profile-treasury-image-shrink_800_800/0/1658147924612?e=1658977200&v=beta&t=TuxGAP6ZoAzKqiQ8SymiZpPbqsqhx-pMCwZGJNGm_bo" width="300">
             </a>
         </td> 
         <td>
-            <a href="https://fsastore.com/">
+            <a href="/">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQGVP8lJwEH9bw/profile-treasury-image-shrink_800_800/0/1658148126603?e=1658977200&v=beta&t=jvrEGGNf5-p7XZ3-djN2JblMP692YT6pD1dF5fxgKIk" width="300">
             </a>
         </td>               
@@ -37,12 +37,12 @@
     </thead>
         <tr>
         <td>
-            <a href="https://www.hiflaneur.com/" target="_blank">
+            <a href="/" target="_blank">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQEVHbu0z9W5kQ/profile-treasury-image-shrink_800_800/0/1658150158459?e=1658977200&v=beta&t=A6HNn1VyDXF70IV34-byFK0p9j5QJqQ7KD28KUZ0z-M" width="300" height="auto">
             </a>
         </td>
         <td>
-            <a href="https://mociun.com/" target="_blank">
+            <a href="/" target="_blank">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQGMOdWKkLFtew/profile-treasury-image-shrink_800_800/0/1658148195422?e=1658977200&v=beta&t=Zwwx4CNMBaX3DoRxyD395as9ipEeFHxb22Frh1H0X6o" width="300" height="auto" >
             </a>
         </td>
