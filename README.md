@@ -8,7 +8,7 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
         <tr>
             <td>RL-Express</td>           
             <td>RL-Simulator</td>
-            </tr>
+        </tr>
     </thead>
     <tbody>
         <tr>
