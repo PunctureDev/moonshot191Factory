@@ -23,7 +23,8 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
             </a>
         </td>
     </tr> 
-       
+       </table>
+       <table>
     <thead align="center">
         <tr style="display: flex">
             <td>Swaport</td>
