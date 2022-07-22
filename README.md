@@ -11,19 +11,20 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
         </tr>
     </thead>
     <tbody>
-        <tr>
+         <tr>
+        <td>
+           <a href="/">
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQHjd2VMWeHVAA/profile-treasury-image-shrink_800_800/0/1658147924612?e=1658977200&v=beta&t=TuxGAP6ZoAzKqiQ8SymiZpPbqsqhx-pMCwZGJNGm_bo" width="600">
+            </a>
+        </td>
+        <td>
+            <a href="/">
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQGVP8lJwEH9bw/profile-treasury-image-shrink_800_800/0/1658148126603?e=1658977200&v=beta&t=jvrEGGNf5-p7XZ3-djN2JblMP692YT6pD1dF5fxgKIk" width="600">
+            </a>
+        </td>
+    </tr> 
+
        
-        <td>
-            <a href="/">
-                <img src="https://media-exp1.licdn.com/dms/image/C562DAQHjd2VMWeHVAA/profile-treasury-image-shrink_800_800/0/1658147924612?e=1658977200&v=beta&t=TuxGAP6ZoAzKqiQ8SymiZpPbqsqhx-pMCwZGJNGm_bo" width="300">
-            </a>
-        </td> 
-        <td>
-            <a href="/">
-                <img src="https://media-exp1.licdn.com/dms/image/C562DAQGVP8lJwEH9bw/profile-treasury-image-shrink_800_800/0/1658148126603?e=1658977200&v=beta&t=jvrEGGNf5-p7XZ3-djN2JblMP692YT6pD1dF5fxgKIk" width="300">
-            </a>
-        </td>               
-   <tr/>
     </tbody>
     <thead align="center">
         <tr style="display: flex">
@@ -34,12 +35,12 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
         <tr>
         <td>
             <a href="/" target="_blank">
-                <img src="https://media-exp1.licdn.com/dms/image/C562DAQEVHbu0z9W5kQ/profile-treasury-image-shrink_800_800/0/1658150158459?e=1658977200&v=beta&t=A6HNn1VyDXF70IV34-byFK0p9j5QJqQ7KD28KUZ0z-M" width="300" height="auto">
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQEVHbu0z9W5kQ/profile-treasury-image-shrink_800_800/0/1658150158459?e=1658977200&v=beta&t=A6HNn1VyDXF70IV34-byFK0p9j5QJqQ7KD28KUZ0z-M" width="600" height="auto">
             </a>
         </td>
         <td>
             <a href="/" target="_blank">
-                <img src="https://media-exp1.licdn.com/dms/image/C562DAQGMOdWKkLFtew/profile-treasury-image-shrink_800_800/0/1658148195422?e=1658977200&v=beta&t=Zwwx4CNMBaX3DoRxyD395as9ipEeFHxb22Frh1H0X6o" width="300" height="auto" >
+                <img src="https://media-exp1.licdn.com/dms/image/C562DAQGMOdWKkLFtew/profile-treasury-image-shrink_800_800/0/1658148195422?e=1658977200&v=beta&t=Zwwx4CNMBaX3DoRxyD395as9ipEeFHxb22Frh1H0X6o" width="600" height="auto" >
             </a>
         </td>
     </tr> 
