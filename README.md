@@ -10,7 +10,6 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
             <td>RL-Simulator</td>
         </tr>
     </thead>
-    <tbody>
          <tr>
         <td>
            <a href="/">
@@ -25,7 +24,6 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
     </tr> 
 
        
-    </tbody>
     <thead align="center">
         <tr style="display: flex">
             <td>Swaport</td>
