@@ -6,18 +6,13 @@ React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Bloc
 <table>
     <thead align="center">
         <tr>
-            <td>CSE</td>           
             <td>RL-Express</td>           
             <td>RL-Simulator</td>
             </tr>
     </thead>
     <tbody>
         <tr>
-        <td>
-            <a href="#">
-                <img src="https://media-exp1.licdn.com/dms/image/C4E2DAQGYQJu4ehsEeg/profile-treasury-image-shrink_800_800/0/1650784882719?e=1658977200&v=beta&t=zhLUf17cY6NGn4Sw_tcaRHkajsHtORmqmeVwZkRvgI4" width="300">
-            </a>
-        </td>
+       
         <td>
             <a href="/">
                 <img src="https://media-exp1.licdn.com/dms/image/C562DAQHjd2VMWeHVAA/profile-treasury-image-shrink_800_800/0/1658147924612?e=1658977200&v=beta&t=TuxGAP6ZoAzKqiQ8SymiZpPbqsqhx-pMCwZGJNGm_bo" width="300">
