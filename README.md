@@ -3,7 +3,6 @@
 React, Redux, Context, Next.js, Vue, Vuex, TailwindCSS, CSS, SCSS, Web3.js, Blockchain Development, Bootstrap, Material UI, etc
 
 ### Contact Info ###
-Email: vision.high.ever@gmail.com
 Discord: moonshot#7073
 Skype: live:.cid.a003d056eec192b9
 
